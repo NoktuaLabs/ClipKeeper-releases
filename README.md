@@ -75,7 +75,7 @@ ClipKeeper reconnaît un mot de passe à la marque que posent 1Password et la pl
 - Il n'apparaît jamais dans l'aperçu, et la recherche ne lit pas son contenu.
 - Si macOS doit redemander l'accès au trousseau, ClipKeeper vous le dit d'abord sur un écran à lui : pas de fenêtre système par surprise.
 
-Vous préférez ne pas les garder ? Décochez **Garder les mots de passe copiés** (Préférences → Filtres). Les mots de passe déjà gardés et leur clé sont alors effacés, après confirmation.
+Vous préférez ne pas les garder ? Désactivez **Garder les mots de passe copiés** (Préférences → Filtres). Les mots de passe déjà gardés et leur clé sont alors effacés, après confirmation.
 </details>
 
 <details>
